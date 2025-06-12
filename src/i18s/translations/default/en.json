@@ -1,0 +1,20 @@
+{
+  "title": "Rick & Morty Characters",
+  "header": {
+    "name": "Name",
+    "status": "Status",
+    "species": "Species",
+    "gender": "Gender",
+    "origin": "Origin"
+  },
+  "buttons": {
+    "refresh": "Refresh",
+    "back": "Back"
+  },
+  "tooltip": {
+    "refresh": "Refresh character list"
+  },
+  "error": {
+    "character_list_error": "Error fetching data"
+  }
+}
